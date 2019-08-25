@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>test</title>
-      <link href="undefined2019/08/25/test/"/>
-      <url>2019/08/25/test/</url>
+      <title>img</title>
+      <link href="undefined2019/08/25/img/"/>
+      <url>2019/08/25/img/</url>
       
-        <content type="html"><![CDATA[<p>Frist Article<br><img src="/.cn//1.jpg" alt></p>]]></content>
+        <content type="html"><![CDATA[<p>This test FOR IMG<br><img src="//localhost:4000/2019/08/25/img/1.jpg" alt></p>]]></content>
       
       
       
